@@ -39,7 +39,7 @@ npm start
 ```
 
 After that, your project will be working correctly, just access the link: ```http://localhost:3000```
-Thanks and sorry for any programming and grammar errors. Remembering that the project is not yet finalized.
+Thanks and sorry for any programming and grammar errors. Remembering this project is not yet finalized.
 
 ##### [LinkedIn](https://www.linkedin.com/in/261656165/)
 
